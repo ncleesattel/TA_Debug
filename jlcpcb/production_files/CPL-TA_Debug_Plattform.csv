@@ -1,0 +1,41 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,150uF,CP_Radial_D8.0mm_P3.50mm,196.5,-95.0,180.0,top
+C2,150uF,CP_Radial_D8.0mm_P3.50mm,74.0,-139.0,0.0,top
+C3,150uF,CP_Radial_D8.0mm_P3.50mm,134.0,-139.0,0.0,top
+C4,150uF,CP_Radial_D8.0mm_P3.50mm,194.0,-140.0,0.0,top
+C5,150uF,CP_Radial_D8.0mm_P3.50mm,209.5,-90.0,180.0,top
+D1,P600S,D_P600_R-6_P20.00mm_Horizontal,242.0,-114.75,0.0,top
+F1,"FLINK 4,0A",Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open,223.0,-135.75,90.0,top
+J1,Motor A,PinHeader_1x04_P2.54mm_Horizontal,55.2,-161.375,-90.0,top
+J2,Conn_02x20_Odd_Even,PinHeader_2x20_P2.54mm_Vertical,80.805,-69.725,90.0,top
+J3,Conn_01x05,PinHeader_1x05_P2.54mm_Vertical,205.965,-152.5,-90.0,top
+J4,AX1 CLK SEL,PinHeader_2x04_P2.54mm_Vertical,77.0,-107.0,-90.0,top
+J5,Conn_01x05,PinHeader_1x05_P2.54mm_Horizontal,205.965,-161.375,-90.0,top
+J6,Conn_01x05,PinHeader_1x05_P2.54mm_Horizontal,35.925,-161.375,-90.0,top
+J7,Motor A,PinHeader_1x04_P2.54mm_Vertical,55.2,-151.0,-90.0,top
+J8,Conn_01x05,PinHeader_1x05_P2.54mm_Vertical,36.0,-151.0,-90.0,top
+J9,Conn_01x05,PinHeader_1x05_P2.54mm_Horizontal,95.925,-161.375,-90.0,top
+J10,AX2 CLK SEL,PinHeader_2x04_P2.54mm_Vertical,135.74,-107.0,-90.0,top
+J11,Conn_01x05,PinHeader_1x05_P2.54mm_Vertical,95.925,-151.0,-90.0,top
+J12,Motor B,PinHeader_1x04_P2.54mm_Horizontal,115.2,-161.375,-90.0,top
+J13,Motor B,PinHeader_1x04_P2.54mm_Vertical,115.2,-151.0,-90.0,top
+J14,SHC,PinHeader_1x04_P2.54mm_Horizontal,29.625,-66.74,180.0,top
+J15,SHC,PinHeader_1x04_P2.54mm_Vertical,41.0,-67.0,180.0,top
+J16,Conn_01x05,PinHeader_1x05_P2.54mm_Horizontal,161.005,-161.375,-90.0,top
+J17,AX3 CLK SEL,PinHeader_2x04_P2.54mm_Vertical,195.0,-107.0,-90.0,top
+J18,Conn_01x05,PinHeader_1x05_P2.54mm_Vertical,161.0,-151.0,-90.0,top
+J19,Motor C,PinHeader_1x04_P2.54mm_Horizontal,180.74,-161.375,-90.0,top
+J20,Motor C,PinHeader_1x04_P2.54mm_Vertical,180.0,-151.0,-90.0,top
+J21,Conn_02x02_Odd_Even,PinHeader_2x02_P2.54mm_Vertical,126.0,-76.0,0.0,top
+J22,Conn_02x02_Odd_Even,PinHeader_2x02_P2.54mm_Vertical,126.275,-66.275,0.0,top
+J23,Conn_01x05,PinHeader_1x05_P2.54mm_Vertical,247.5,-83.455,0.0,top
+J24,Conn_01x05,PinHeader_1x05_P2.54mm_Horizontal,257.0,-83.5,0.0,top
+SW1,SW_SPST,Marquart,244.0,-130.0,180.0,top
+U4,TSR_2-2450,Converter_DCDC_TRACO_TSR-2_THT,224.569,-101.661,180.0,top
+U5,TSR_2-2450,Converter_DCDC_TRACO_TSR-2_THT,224.569,-89.681,180.0,top
+U6,NEO-M8n-GPS,NEO-M8n-GPS,154.21,-67.66,0.0,top
+U7,~,DS3232,146.0,-89.5,0.0,top
+X1,ACO-16MHz,Oscillator_DIP-14,82.0,-119.0,0.0,top
+X1_PWR1,Barrel_Jack_MountingPin,BarrelJack_Horizontal,250.0,-147.085,180.0,top
+X2,ACO-16MHz,Oscillator_DIP-14,141.0,-120.0,0.0,top
+X3,ACO-16MHz,Oscillator_DIP-14,200.0,-120.0,0.0,top
